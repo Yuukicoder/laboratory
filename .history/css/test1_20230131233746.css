@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+}
+body {
+  background: black;
+}
+/* header {
+  padding: 5rem;
+  min-height: 50vh;
+  margin-block-end: 5rem;
+  position: relative;
+} */
+
+img {
+  -webkit-mask-image: url(https://www.freepnglogos.com/uploads/pin-png/pin-transparent-png-pictures-icons-and-png-backgrounds-30.png);
+  mask-image: url(https://www.freepnglogos.com/uploads/pin-png/pin-transparent-png-pictures-icons-and-png-backgrounds-30.png);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+p {
+  color: white;
+}

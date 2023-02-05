@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+}
+body {
+  background: black;
+}
+header {
+  padding: 5rem;
+  min-height: 50vh;
+  margin-block-end: 5rem;
+  position: relative;
+}
+
+img {
+  -webkit-mask-image: url(https://assets.stickpng.com/images/61d183263a856e0004c6334a.png);
+  mask-image: url(https://assets.stickpng.com/images/61d183263a856e0004c6334a.png);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+p {
+  color: white;
+}

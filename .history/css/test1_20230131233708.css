@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+}
+body {
+  background: black;
+}
+/* header {
+  padding: 5rem;
+  min-height: 50vh;
+  margin-block-end: 5rem;
+  position: relative;
+} */
+
+img {
+  -webkit-mask-image: url(https://www.lunapic.com/editor/premade/transparent.gif);
+  mask-image: url(https://www.lunapic.com/editor/premade/transparent.gif);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+p {
+  color: white;
+}

@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid black; */
+  box-sizing: border-box;
+}
+body {
+  background: #30343f;
+}
+h1 {
+  color: rgb(204, 27, 27);
+  font-family: Arima;
+  font-size: large;
+  line-height: 1;
+  font-weight: 900;
+  position: relative;
+}
+img {
+  /* position: absolute;
+  left: 0;
+  right: 0;
+  top: 0; */
+  /* width: 100%; */
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}

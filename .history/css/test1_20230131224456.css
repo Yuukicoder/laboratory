@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid black; */
+  box-sizing: border-box;
+}
+body {
+  background: #30343f;
+}
+h1 {
+  color: aquamarine;
+  font-family: Arima;
+  position: relative;
+}
+img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100%;
+  -webkit-mask-image: linear-gradient(red, transparent);
+  mask-image: linear-gradient(red, transparent);
+}

@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid black; */
+  box-sizing: border-box;
+}
+body {
+  background: #30343f;
+}
+header {
+  position: relative;
+}
+h1 {
+  color: hsl(0, 77%, 45%);
+  margin: 25px;
+  font-family: Arima;
+  line-height: 1;
+  font-weight: 900;
+  font-size: larger;
+  text-transform: uppercase;
+  position: relative;
+}
+img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  /* width: 100%; */
+  -webkit-mask-image: linear-gradient(red, transparent);
+  mask-image: linear-gradient(red, transparent);
+}

@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+body {
+  background: #000;
+}
+h1 {
+  font-family: Arima;
+  position: relative;
+}
+img {
+  -webkit-mask-image: linear-gradient(black, transparent);
+}

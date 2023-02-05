@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+.container {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-family: Arima;
+  position: relative;
+}

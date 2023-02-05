@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: Arima;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+.container {
+  /* display: inline-block; */
+  position: relative;
+}
+h1 {
+  font-family: Arima;
+  position: absolute;
+  left: 50;
+  right: 50;
+  /* position: relative; */
+}

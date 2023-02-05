@@ -1,0 +1,6 @@
+.mask1 {
+  -webkit-mask-image: url(https://www.w3schools.com/css/w3logo.png);
+  mask-image: url(https://www.w3schools.com/css/w3logo.png);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
